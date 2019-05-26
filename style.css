@@ -1,0 +1,40 @@
+body {
+  margin:0;
+  background-size: 100%;
+  background-image: url("fondo.jpg");
+}
+
+.logo {
+  margin-left: 81%;
+}
+
+h1 {
+  margin-left: 28%;
+  color: white;
+  margin-top: 12%;
+  font-style: italic;
+}
+
+#button1 {
+  margin-top: 10%;
+  margin-left: 22%;
+  background-color: #008CBA;
+  font-size: 25px;
+  border-radius: 12px;
+  border: 2px solid blue;
+  -webkit-transition-duration: 4s;
+  transition-duration: 4s;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  width: 150px;
+}
+
+#button2 {
+  margin-top: 10%;
+  margin-left: 11%;
+  background-color: #f44336;
+  font-size: 25px;
+  border-radius: 12px;
+  border: 2px solid red;
+  -webkit-transition-duration: 4s;
+  transition-duration: 4s;
+}
